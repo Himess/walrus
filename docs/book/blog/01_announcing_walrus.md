@@ -3,8 +3,8 @@
 Published on: 2024-06-18
 
 ```admonish warning
-This blog post is shown in its original form and may contain information that is no longer accurate.
-Some broken links may have been updated or removed.
+This blog post is shown in its original form. It may contain information that is no longer accurate
+and broken links.
 ```
 
 Walrus is an innovative decentralized storage network for blockchain apps and autonomous agents. The
@@ -81,9 +81,10 @@ Stay tuned for more updates on how Walrus will revolutionize data storage in the
 ## What can developers build?
 
 As part of this developer preview, we provide a binary client (currently macOS, ubuntu) that can be
-operated from the [command line interface](../usage/client-cli.md), a [JSON API](../usage/json-api.md),
-and an [HTTP API](../usage/web-api.md). We also offer the community an aggregator and publisher
-service and a Devnet deployment of 10 storage nodes operated by Mysten Labs.
+operated from the [command line interface](https://docs.walrus.site/usage/client-cli.html), a [JSON
+API](https://docs.walrus.site/usage/json-api.html), and an [HTTP
+API](https://docs.walrus.site/usage/web-api.html). We also offer the community an aggregator and
+publisher service and a Devnet deployment of 10 storage nodes operated by Mysten Labs.
 
 We hope developers will experiment with building applications that leverage the Walrus Decentralized
 Store in a variety of ways. As examples, we hope to see the community build:
@@ -121,7 +122,7 @@ We are excited to see what else the web3 developer community can imagine!
 ## Getting Started
 
 For this developer preview the public Walrus Devnet is openly available to all developers. Developer
-documentation is available at <https://docs.wal.app>.
+documentation is available at <https://docs.walrus.site>.
 
 SUI Testnet token is the main currency for interacting with Walrus. Developers pay for Walrus Devnet
 storage using SUI Testnet tokens which can be acquired at the [Sui Testnet Discord
@@ -129,5 +130,6 @@ faucet](https://discord.com/channels/916379725201563759/1037811694564560966).
 
 ## One more thing …
 
-The Walrus Sites website, the Walrus docs, and this very blog are hosted on Walrus. To learn more
-about Walrus Sites and how you can deploy your own, [click here](../walrus-sites/intro.md).
+The [Walrus Sites website](https://walrus.site), the [Walrus docs](https://docs.walrus.site), and
+[this very blog](https://blog.walrus.site) are hosted on Walrus. To learn more about Walrus Sites
+and how you can deploy your own, [click here](https://docs.walrus.site/walrus-sites/intro.html).
